@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<title>8 projects built, 102 automated tests passing, 3 stacks, 1 full Ironman finished</title>
+<style>
+  @keyframes rise { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: translateY(0) } }
+  @keyframes bar { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+</style>
+
+  <g style="animation: rise .7s ease-out 0.15s both">
+    <rect x="1.0" y="1" width="274" height="148" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <rect x="1.0" y="1" width="274" height="148" rx="14" fill="#58a6ff" fill-opacity="0.06"/>
+    <text x="24.0" y="72" style="font: 800 50px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #58a6ff">8</text>
+    <text x="24.0" y="102" style="font: 700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e6edf3">projects built</text>
+    <text x="24.0" y="124" style="font: 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8b949e">web, mobile and APIs</text>
+    <rect x="24.0" y="136" width="228" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="24.0" y="136" width="228" height="3" rx="1.5" fill="#58a6ff" style="transform-box: fill-box; transform-origin: left; animation: bar 1.4s ease-out 0.55s both"/>
+  </g>
+  <g style="animation: rise .7s ease-out 0.33s both">
+    <rect x="309.0" y="1" width="274" height="148" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <rect x="309.0" y="1" width="274" height="148" rx="14" fill="#3fb950" fill-opacity="0.06"/>
+    <text x="332.0" y="72" style="font: 800 50px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #3fb950">102</text>
+    <text x="332.0" y="102" style="font: 700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e6edf3">automated tests passing</text>
+    <text x="332.0" y="124" style="font: 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8b949e">on HustleHub+</text>
+    <rect x="332.0" y="136" width="228" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="332.0" y="136" width="228" height="3" rx="1.5" fill="#3fb950" style="transform-box: fill-box; transform-origin: left; animation: bar 1.4s ease-out 0.73s both"/>
+  </g>
+  <g style="animation: rise .7s ease-out 0.51s both">
+    <rect x="617.0" y="1" width="274" height="148" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <rect x="617.0" y="1" width="274" height="148" rx="14" fill="#d2a8ff" fill-opacity="0.06"/>
+    <text x="640.0" y="72" style="font: 800 50px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #d2a8ff">3</text>
+    <text x="640.0" y="102" style="font: 700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e6edf3">stacks</text>
+    <text x="640.0" y="124" style="font: 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8b949e">Flutter · MERN · .NET</text>
+    <rect x="640.0" y="136" width="228" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="640.0" y="136" width="228" height="3" rx="1.5" fill="#d2a8ff" style="transform-box: fill-box; transform-origin: left; animation: bar 1.4s ease-out 0.91s both"/>
+  </g>
+  <g style="animation: rise .7s ease-out 0.69s both">
+    <rect x="925.0" y="1" width="274" height="148" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <rect x="925.0" y="1" width="274" height="148" rx="14" fill="#ffa657" fill-opacity="0.06"/>
+    <text x="948.0" y="72" style="font: 800 50px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #ffa657">1</text>
+    <text x="948.0" y="102" style="font: 700 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #e6edf3">full Ironman finished</text>
+    <text x="948.0" y="124" style="font: 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #8b949e">discipline I bring to work</text>
+    <rect x="948.0" y="136" width="228" height="3" rx="1.5" fill="#21262d"/>
+    <rect x="948.0" y="136" width="228" height="3" rx="1.5" fill="#ffa657" style="transform-box: fill-box; transform-origin: left; animation: bar 1.4s ease-out 1.09s both"/>
+  </g>
+</svg>
